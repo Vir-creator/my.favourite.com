@@ -1,0 +1,39 @@
+img {
+    width: 100px;
+    align-content: center;
+    border-radius: 50%;
+}
+
+body {
+    text-align: center;
+    background-color: #81D4FA;
+}
+
+.h {
+    font-size: 15px;
+    color: #43A047;
+}
+
+p {
+    color: #E57373;
+    font-size: 20px;
+}
+
+#table_of_contents {
+    align-content: right;
+}
+
+.links {
+    float: left;
+    color: black;
+    font-family: fantasy;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+}
+
+.links:hover {
+    background-color: navajowhite;
+}
